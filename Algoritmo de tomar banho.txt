@@ -1,0 +1,14 @@
+Algoritmo de tomar banho:
+primeiro passo: tirar a roupa
+segundo passo: ligar chuveiro
+terceiro passo: entrar debaixo da água
+quarto passo: passar sabão no corpo
+quinto passo: tirar sabão do corpo
+sexto passo: passar shampoo no cabelo
+setimo passo: tirar shampoo do cabelo
+oitavo passo: passar condicionador no cabelo
+nono passo: tirar condicionadaor do cabelo
+décimo passo: desligar o chuveiro
+décimo primeiro passo: pegar a toalha
+décimo segundo passo: se secar com a toalha
+décimo terceiro passo: vestir a roupa
